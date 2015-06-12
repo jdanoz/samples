@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say voice="alice" language="es">Your digital PIN number for e-consent is: 5 9 1 4 3 7/Say>
+    <Say voice="alice" language="es">Your digital PIN number for econsent is: 5-9-1-4-3-7</Say>
 </Response>
